@@ -1,0 +1,17 @@
+{
+
+    "outputFolder": "output",
+    "templateDir": "../../Shared.Source/mustaches/typescriptangular",
+    "packageName": "",
+    "modelPackage": "",
+    "apiPackage": "",
+    "additionalProperties": {
+        "apiVersion": "V1"
+    },
+    "modelTemplateFiles": {
+        "model.mustache": ".ts"
+    },
+    "apiTemplateFiles": {
+        "api.mustache": ".ts"
+    }
+}
